@@ -34,7 +34,7 @@ You can add interactivity to the VR world using A-Frame components. Visit the A-
 
 This A-Frame VR project is a simple virtual reality world that displays a football stadium with a 3D football model in the center. The project is designed to be easy to set up and run on any web server, and can be accessed using a modern web browser with support for the WebXR API.
 
-The VR world includes a textured sky, a grassy field, and a 3D model of a football. The football model is animated to move up and down, and the welcome text is animated to move up and down as well as rotate. The app also includes an audio file that plays an airhorn sound when the scene loads.
+The VR world includes a textured sky, a grassy field, and a 3D model of a Logo. The Logo model is animated to move up and down, and the welcome text is animated to move up and down as well as rotate. The app also includes an audio file that plays an airhorn sound when the scene loads.
 
 Users can navigate around the virtual world using a mouse, touchpad, or VR headset. The project can be easily customized by modifying the code in the HTML file and adding A-Frame components for interactivity.
 
